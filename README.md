@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kodjohin/fylo-data-storage-component)
-- Live Site URL: [Add live site URL here](https://kodjohin.github.io/fylo-data-storage-component/)
+- Solution URL: [solution URL here](https://github.com/kodjohin/fylo-data-storage-component)
+- Live Site URL: [live site URL here](https://kodjohin.github.io/fylo-data-storage-component/)
 
 ### Built with
 
